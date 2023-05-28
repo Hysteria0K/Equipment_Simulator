@@ -1572,3 +1572,76 @@ Script Stack (0 frames) :
 [2023.05.28-09.36.29:202][ 45]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2023.05.28-09.36.29:204][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
 [2023.05.28-09.36.29:228][ 46]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2023.05.28-09.37.38:235][804]LogSlate: Window 'Widget' being destroyed
+[2023.05.28-09.37.38:240][804]LogSlate: Window 'Widget' being destroyed
+[2023.05.28-09.37.38:244][804]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.05.28-09.37.38:244][804]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.28-09.37.38:306][804]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.05.28-09.37.38:306][804]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.28-09.37.38:313][804]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.05.28-09.37.38:313][804]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.28-09.37.39:016][879]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.28-09.37.39:020][879]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.28-09.37.39:020][879]PIE: New page: PIE session: Main (2023. 5. 29. 오전 3:37:39)
+[2023.05.28-09.37.39:020][879]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2023.05.28-09.37.39:021][879]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000577s)
+[2023.05.28-09.37.39:021][879]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.000603s)
+[2023.05.28-09.37.39:021][879]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.28-09.37.39:021][879]LogAIModule: Creating AISystem for world Main
+[2023.05.28-09.37.39:021][879]LogPlayLevel: PIE: World Init took: (0.000574s)
+[2023.05.28-09.37.39:069][879]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.05.28-09.37.39:082][879]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.05.28-09.37.39:082][879]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.28-09.37.39:082][879]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.28-09.37.39:082][879]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.28-09.37.39:082][879]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.28-09.37.39:082][879]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.28-09.37.39:082][879]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.28-09.37.39:082][879]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.28-09.37.39:082][879]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.28-09.37.39:082][879]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.28-09.37.39:082][879]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.28-09.37.39:082][879]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.28-09.37.39:084][879]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.28-09.37.39:099][879]LogAudioMixer: Display: Using Audio Hardware Device Headphones(GM200U)
+[2023.05.28-09.37.39:099][879]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.28-09.37.39:099][879]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.28-09.37.39:099][879]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.28-09.37.39:099][879]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.05.28-09.37.39:099][879]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.05.28-09.37.39:101][879]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.05.28-09.37.39:101][879]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.05.28-09.37.39:101][879]LogInit: FAudioDevice initialized.
+[2023.05.28-09.37.39:101][879]LogAudio: Display: Audio Device (ID: 7) registered with world 'Main'.
+[2023.05.28-09.37.39:103][879]LogLoad: Game class is 'BP_GameModeBase_C'
+[2023.05.28-09.37.39:104][879]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.05.28-18.37.39
+[2023.05.28-09.37.39:104][879]LogWorld: Bringing up level for play took: 0.000236
+[2023.05.28-09.37.39:105][879]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2023.05.28-09.37.39:107][879]PIE: Server logged in
+[2023.05.28-09.37.39:107][879]PIE: Play in editor total start time 0.087 seconds.
+[2023.05.28-09.38.02:889][726]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-09.38.02:889][726]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2023.05.28-09.38.02:889][726]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.05.28-09.38.02:889][726]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.28-09.38.02:891][726]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.28-09.38.02:896][726]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.28-09.38.02:912][726]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.28-09.38.02:912][726]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.05.28-09.38.02:914][726]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.05.28-09.38.02:937][726]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.05.28-09.38.02:975][730]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2023.05.28-09.38.08:424][381]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.05.28-09.38.10:692][381]LogSlate: Window 'Save Content' being destroyed
+[2023.05.28-09.38.11:550][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.05.28-09.38.12:345][479]LogSlate: Window 'Save Content' being destroyed
+[2023.05.28-09.38.12:366][479]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.28-09.38.12:391][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_PlayerState" FILE="C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Content/BP/BP_PlayerState.uasset" SILENT=true
+[2023.05.28-09.38.12:396][479]LogSavePackage: Moving output files for package: /Game/BP/BP_PlayerState
+[2023.05.28-09.38.12:397][479]LogSavePackage: Moving 'C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Saved/BP_PlayerState3EA723CB479CFD4B18EF268142E31F74.tmp' to 'C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Content/BP/BP_PlayerState.uasset'
+[2023.05.28-09.38.12:401][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Widget" FILE="C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Content/BP/Widget.uasset" SILENT=true
+[2023.05.28-09.38.12:466][479]LogSavePackage: Moving output files for package: /Game/BP/Widget
+[2023.05.28-09.38.12:467][479]LogSavePackage: Moving 'C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Saved/Widget633CE52545A927903BB534A87415D711.tmp' to 'C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Content/BP/Widget.uasset'
+[2023.05.28-09.38.12:472][479]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 342 ms)
+[2023.05.28-09.38.12:478][479]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.28-09.38.12:478][479]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP/BP_PlayerState.BP_PlayerState
+[2023.05.28-09.38.12:478][479]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/BP/Widget.Widget
