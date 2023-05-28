@@ -3710,3 +3710,16 @@ Script Stack (0 frames) :
 [2023.05.28-17.16.49:443][602]LogFileHelpers: InternalPromptForCheckoutAndSave took 196 ms (total: 1.37 sec)
 [2023.05.28-17.16.49:451][602]AssetCheck: New page: Asset Save: Main
 [2023.05.28-17.16.49:451][602]LogContentValidation: Display: Validating /Script/Engine.World /Game/Main.Main
+[2023.05.28-17.17.06:104][683]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.05.28-17.17.07:165][683]LogSlate: Window 'Save Content' being destroyed
+[2023.05.28-17.17.07:203][683]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.28-17.17.07:222][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_PlayerState" FILE="C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Content/BP/BP_PlayerState.uasset" SILENT=true
+[2023.05.28-17.17.07:246][683]LogSavePackage: Moving output files for package: /Game/BP/BP_PlayerState
+[2023.05.28-17.17.07:246][683]LogSavePackage: Moving 'C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Saved/BP_PlayerState1E98B03D42EF1BC2FD236C9569DFB3AE.tmp' to 'C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Content/BP/BP_PlayerState.uasset'
+[2023.05.28-17.17.07:253][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Widget" FILE="C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Content/BP/Widget.uasset" SILENT=true
+[2023.05.28-17.17.07:373][683]LogSavePackage: Moving output files for package: /Game/BP/Widget
+[2023.05.28-17.17.07:374][683]LogSavePackage: Moving 'C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Saved/Widget8F0958A945EB9FB99B6DEE8AC2439CC3.tmp' to 'C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Content/BP/Widget.uasset'
+[2023.05.28-17.17.07:382][683]LogFileHelpers: InternalPromptForCheckoutAndSave took 179 ms (total: 1.55 sec)
+[2023.05.28-17.17.07:390][683]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.28-17.17.07:390][683]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP/BP_PlayerState.BP_PlayerState
+[2023.05.28-17.17.07:390][683]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/BP/Widget.Widget
