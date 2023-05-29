@@ -5885,3 +5885,138 @@ Script Stack (0 frames) :
 [2023.05.29-20.33.22:779][700]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 1:25 min)
 [2023.05.29-20.33.22:787][700]AssetCheck: New page: Asset Save: BP_PlayerState
 [2023.05.29-20.33.22:787][700]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP/BP_PlayerState.BP_PlayerState
+[2023.05.29-20.33.39:175][849]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.29-20.33.39:203][849]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_PlayerState" FILE="C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Content/BP/BP_PlayerState.uasset" SILENT=true
+[2023.05.29-20.33.39:277][849]LogSavePackage: Moving output files for package: /Game/BP/BP_PlayerState
+[2023.05.29-20.33.39:278][849]LogSavePackage: Moving 'C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Saved/BP_PlayerStateD7CD7B8E492F6B0B9C8AE9AB0CC36156.tmp' to 'C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Content/BP/BP_PlayerState.uasset'
+[2023.05.29-20.33.39:284][849]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 1:26 min)
+[2023.05.29-20.33.39:293][849]AssetCheck: New page: Asset Save: BP_PlayerState
+[2023.05.29-20.33.39:293][849]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP/BP_PlayerState.BP_PlayerState
+[2023.05.29-20.33.59:340][756]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.29-20.33.59:370][756]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_PlayerState" FILE="C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Content/BP/BP_PlayerState.uasset" SILENT=true
+[2023.05.29-20.33.59:453][756]LogSavePackage: Moving output files for package: /Game/BP/BP_PlayerState
+[2023.05.29-20.33.59:453][756]LogSavePackage: Moving 'C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Saved/BP_PlayerStateD9522BBA4CD207DCBA847BB3624EA7E5.tmp' to 'C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Content/BP/BP_PlayerState.uasset'
+[2023.05.29-20.33.59:461][756]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 1:26 min)
+[2023.05.29-20.33.59:470][756]AssetCheck: New page: Asset Save: BP_PlayerState
+[2023.05.29-20.33.59:470][756]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP/BP_PlayerState.BP_PlayerState
+[2023.05.29-20.34.05:388][397]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.29-20.34.05:419][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_PlayerState" FILE="C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Content/BP/BP_PlayerState.uasset" SILENT=true
+[2023.05.29-20.34.05:502][397]LogSavePackage: Moving output files for package: /Game/BP/BP_PlayerState
+[2023.05.29-20.34.05:503][397]LogSavePackage: Moving 'C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Saved/BP_PlayerStateFB37D57A4250E42D2E82D6A39A3A381D.tmp' to 'C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Content/BP/BP_PlayerState.uasset'
+[2023.05.29-20.34.05:510][397]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 1:26 min)
+[2023.05.29-20.34.05:518][397]AssetCheck: New page: Asset Save: BP_PlayerState
+[2023.05.29-20.34.05:519][397]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP/BP_PlayerState.BP_PlayerState
+[2023.05.29-20.34.20:753][960]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.29-20.34.20:781][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_PlayerState" FILE="C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Content/BP/BP_PlayerState.uasset" SILENT=true
+[2023.05.29-20.34.20:863][960]LogSavePackage: Moving output files for package: /Game/BP/BP_PlayerState
+[2023.05.29-20.34.20:863][960]LogSavePackage: Moving 'C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Saved/BP_PlayerState5B68530F46984ABDAA7057990718F270.tmp' to 'C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Content/BP/BP_PlayerState.uasset'
+[2023.05.29-20.34.20:870][960]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 1:26 min)
+[2023.05.29-20.34.20:880][960]AssetCheck: New page: Asset Save: BP_PlayerState
+[2023.05.29-20.34.20:880][960]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP/BP_PlayerState.BP_PlayerState
+[2023.05.29-20.34.28:065][688]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.29-20.34.28:087][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_PlayerState" FILE="C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Content/BP/BP_PlayerState.uasset" SILENT=true
+[2023.05.29-20.34.28:167][688]LogSavePackage: Moving output files for package: /Game/BP/BP_PlayerState
+[2023.05.29-20.34.28:168][688]LogSavePackage: Moving 'C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Saved/BP_PlayerState5989BB13411E6905022324BC0FDA419D.tmp' to 'C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Content/BP/BP_PlayerState.uasset'
+[2023.05.29-20.34.28:175][688]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 1:26 min)
+[2023.05.29-20.34.28:182][688]AssetCheck: New page: Asset Save: BP_PlayerState
+[2023.05.29-20.34.28:183][688]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP/BP_PlayerState.BP_PlayerState
+[2023.05.29-20.34.31:812][ 28]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.29-20.34.31:844][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_PlayerState" FILE="C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Content/BP/BP_PlayerState.uasset" SILENT=true
+[2023.05.29-20.34.31:923][ 28]LogSavePackage: Moving output files for package: /Game/BP/BP_PlayerState
+[2023.05.29-20.34.31:924][ 28]LogSavePackage: Moving 'C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Saved/BP_PlayerStateAD1531C54ABD85C592D6E4A396A89106.tmp' to 'C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Content/BP/BP_PlayerState.uasset'
+[2023.05.29-20.34.31:930][ 28]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 1:26 min)
+[2023.05.29-20.34.31:939][ 28]AssetCheck: New page: Asset Save: BP_PlayerState
+[2023.05.29-20.34.31:939][ 28]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP/BP_PlayerState.BP_PlayerState
+[2023.05.29-20.34.35:860][444]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.29-20.34.35:892][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_PlayerState" FILE="C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Content/BP/BP_PlayerState.uasset" SILENT=true
+[2023.05.29-20.34.35:969][444]LogSavePackage: Moving output files for package: /Game/BP/BP_PlayerState
+[2023.05.29-20.34.35:970][444]LogSavePackage: Moving 'C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Saved/BP_PlayerStateF8D040504C4F2A55C1F22EB3F5EF8146.tmp' to 'C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Content/BP/BP_PlayerState.uasset'
+[2023.05.29-20.34.35:977][444]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 1:26 min)
+[2023.05.29-20.34.35:986][444]AssetCheck: New page: Asset Save: BP_PlayerState
+[2023.05.29-20.34.35:987][444]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP/BP_PlayerState.BP_PlayerState
+[2023.05.29-20.34.53:670][354]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.29-20.34.53:692][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_PlayerState" FILE="C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Content/BP/BP_PlayerState.uasset" SILENT=true
+[2023.05.29-20.34.53:770][354]LogSavePackage: Moving output files for package: /Game/BP/BP_PlayerState
+[2023.05.29-20.34.53:771][354]LogSavePackage: Moving 'C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Saved/BP_PlayerStateC7BA4D234D0BB2C319A94E9180DEDFA4.tmp' to 'C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Content/BP/BP_PlayerState.uasset'
+[2023.05.29-20.34.53:779][354]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 1:26 min)
+[2023.05.29-20.34.53:786][354]AssetCheck: New page: Asset Save: BP_PlayerState
+[2023.05.29-20.34.53:787][354]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP/BP_PlayerState.BP_PlayerState
+[2023.05.29-20.35.05:355][642]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.29-20.35.05:385][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_PlayerState" FILE="C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Content/BP/BP_PlayerState.uasset" SILENT=true
+[2023.05.29-20.35.05:467][642]LogSavePackage: Moving output files for package: /Game/BP/BP_PlayerState
+[2023.05.29-20.35.05:468][642]LogSavePackage: Moving 'C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Saved/BP_PlayerState444A5650482A3FD85DBEC0BED076FAB2.tmp' to 'C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Content/BP/BP_PlayerState.uasset'
+[2023.05.29-20.35.05:475][642]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 1:26 min)
+[2023.05.29-20.35.05:482][642]AssetCheck: New page: Asset Save: BP_PlayerState
+[2023.05.29-20.35.05:482][642]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP/BP_PlayerState.BP_PlayerState
+[2023.05.29-20.35.06:664][769]BlueprintLog: New page: Compile BP_PlayerState
+[2023.05.29-20.35.06:824][769]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2023.05.29-20.35.43:984][715]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.29-20.35.44:009][715]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_PlayerState" FILE="C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Content/BP/BP_PlayerState.uasset" SILENT=true
+[2023.05.29-20.35.44:089][715]LogSavePackage: Moving output files for package: /Game/BP/BP_PlayerState
+[2023.05.29-20.35.44:090][715]LogSavePackage: Moving 'C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Saved/BP_PlayerStateD8AAB58C40CF5CD17EFA18B8284E8996.tmp' to 'C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Content/BP/BP_PlayerState.uasset'
+[2023.05.29-20.35.44:096][715]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 1:27 min)
+[2023.05.29-20.35.44:105][715]AssetCheck: New page: Asset Save: BP_PlayerState
+[2023.05.29-20.35.44:106][715]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP/BP_PlayerState.BP_PlayerState
+[2023.05.29-20.35.51:588][494]LogEditorTransaction: Undo Rename Node
+[2023.05.29-20.35.52:882][591]LogEditorTransaction: Undo Add Node
+[2023.05.29-20.36.03:089][666]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.29-20.36.03:115][666]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_PlayerState" FILE="C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Content/BP/BP_PlayerState.uasset" SILENT=true
+[2023.05.29-20.36.03:218][666]LogSavePackage: Moving output files for package: /Game/BP/BP_PlayerState
+[2023.05.29-20.36.03:218][666]LogSavePackage: Moving 'C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Saved/BP_PlayerStateB733969249102F0ACB4EAC8F1FCBB925.tmp' to 'C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Content/BP/BP_PlayerState.uasset'
+[2023.05.29-20.36.03:228][666]LogFileHelpers: InternalPromptForCheckoutAndSave took 139 ms (total: 1:27 min)
+[2023.05.29-20.36.03:240][666]AssetCheck: New page: Asset Save: BP_PlayerState
+[2023.05.29-20.36.03:240][666]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP/BP_PlayerState.BP_PlayerState
+[2023.05.29-20.36.07:916][196]BlueprintLog: New page: Compile BP_PlayerState
+[2023.05.29-20.36.08:076][196]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.05.29-20.36.19:767][423]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.29-20.36.19:788][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_PlayerState" FILE="C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Content/BP/BP_PlayerState.uasset" SILENT=true
+[2023.05.29-20.36.19:869][423]LogSavePackage: Moving output files for package: /Game/BP/BP_PlayerState
+[2023.05.29-20.36.19:869][423]LogSavePackage: Moving 'C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Saved/BP_PlayerStateAD115A8C4BB7296B5C623A9EFF1B73C3.tmp' to 'C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Content/BP/BP_PlayerState.uasset'
+[2023.05.29-20.36.19:876][423]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 1:27 min)
+[2023.05.29-20.36.19:884][423]AssetCheck: New page: Asset Save: BP_PlayerState
+[2023.05.29-20.36.19:884][423]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP/BP_PlayerState.BP_PlayerState
+[2023.05.29-20.36.20:812][519]BlueprintLog: New page: Compile BP_PlayerState
+[2023.05.29-20.36.20:977][519]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2023.05.29-20.36.54:160][964]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.29-20.36.54:184][964]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_PlayerState" FILE="C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Content/BP/BP_PlayerState.uasset" SILENT=true
+[2023.05.29-20.36.54:264][964]LogSavePackage: Moving output files for package: /Game/BP/BP_PlayerState
+[2023.05.29-20.36.54:265][964]LogSavePackage: Moving 'C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Saved/BP_PlayerState52C775F546226C05F0D5EBBA8398DD29.tmp' to 'C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Content/BP/BP_PlayerState.uasset'
+[2023.05.29-20.36.54:272][964]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 1:27 min)
+[2023.05.29-20.36.54:282][964]AssetCheck: New page: Asset Save: BP_PlayerState
+[2023.05.29-20.36.54:282][964]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP/BP_PlayerState.BP_PlayerState
+[2023.05.29-20.36.55:202][ 55]BlueprintLog: New page: Compile BP_PlayerState
+[2023.05.29-20.36.55:372][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.05.29-20.37.24:056][701]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.29-20.37.24:087][701]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_PlayerState" FILE="C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Content/BP/BP_PlayerState.uasset" SILENT=true
+[2023.05.29-20.37.24:168][701]LogSavePackage: Moving output files for package: /Game/BP/BP_PlayerState
+[2023.05.29-20.37.24:169][701]LogSavePackage: Moving 'C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Saved/BP_PlayerState355F89CE4D0F209EFD6D0A9BFCD47239.tmp' to 'C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Content/BP/BP_PlayerState.uasset'
+[2023.05.29-20.37.24:176][701]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 1:27 min)
+[2023.05.29-20.37.24:184][701]AssetCheck: New page: Asset Save: BP_PlayerState
+[2023.05.29-20.37.24:184][701]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP/BP_PlayerState.BP_PlayerState
+[2023.05.29-20.37.25:280][814]BlueprintLog: New page: Compile BP_PlayerState
+[2023.05.29-20.37.25:439][814]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.05.29-20.37.33:384][633]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.29-20.37.33:412][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_PlayerState" FILE="C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Content/BP/BP_PlayerState.uasset" SILENT=true
+[2023.05.29-20.37.33:493][633]LogSavePackage: Moving output files for package: /Game/BP/BP_PlayerState
+[2023.05.29-20.37.33:494][633]LogSavePackage: Moving 'C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Saved/BP_PlayerState9710E9C44B053533210A4D8F31E9EFD4.tmp' to 'C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Content/BP/BP_PlayerState.uasset'
+[2023.05.29-20.37.33:501][633]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 1:27 min)
+[2023.05.29-20.37.33:509][633]AssetCheck: New page: Asset Save: BP_PlayerState
+[2023.05.29-20.37.33:509][633]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP/BP_PlayerState.BP_PlayerState
+[2023.05.29-20.37.49:698][281]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.29-20.37.49:727][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_PlayerState" FILE="C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Content/BP/BP_PlayerState.uasset" SILENT=true
+[2023.05.29-20.37.49:808][281]LogSavePackage: Moving output files for package: /Game/BP/BP_PlayerState
+[2023.05.29-20.37.49:808][281]LogSavePackage: Moving 'C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Saved/BP_PlayerState2E8ECF524F4029C564733290499BC78D.tmp' to 'C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Content/BP/BP_PlayerState.uasset'
+[2023.05.29-20.37.49:815][281]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 1:27 min)
+[2023.05.29-20.37.49:823][281]AssetCheck: New page: Asset Save: BP_PlayerState
+[2023.05.29-20.37.49:823][281]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP/BP_PlayerState.BP_PlayerState
+[2023.05.29-20.37.51:544][472]BlueprintLog: New page: Compile BP_PlayerState
+[2023.05.29-20.37.51:701][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.05.29-20.38.01:918][498]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.29-20.38.01:950][498]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_PlayerState" FILE="C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Content/BP/BP_PlayerState.uasset" SILENT=true
+[2023.05.29-20.38.02:032][498]LogSavePackage: Moving output files for package: /Game/BP/BP_PlayerState
+[2023.05.29-20.38.02:033][498]LogSavePackage: Moving 'C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Saved/BP_PlayerStateA264EA5345E1260FCB50CBA6BFDC5F8D.tmp' to 'C:/Users/tksth/Desktop/3학년/1학기/팀프로젝트/Equipment_Simulator/Equipment_simulator/Content/BP/BP_PlayerState.uasset'
+[2023.05.29-20.38.02:040][498]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 1:27 min)
+[2023.05.29-20.38.02:049][498]AssetCheck: New page: Asset Save: BP_PlayerState
+[2023.05.29-20.38.02:049][498]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP/BP_PlayerState.BP_PlayerState
+[2023.05.29-20.38.03:806][647]BlueprintLog: New page: Compile BP_PlayerState
+[2023.05.29-20.38.03:970][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
