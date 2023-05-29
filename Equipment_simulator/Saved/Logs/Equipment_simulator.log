@@ -7189,3 +7189,63 @@ Script Stack (0 frames) :
 [2023.05.29-21.19.44:409][ 93]LogFileHelpers: InternalPromptForCheckoutAndSave took 526 ms (total: 1:54 min)
 [2023.05.29-21.19.44:417][ 93]AssetCheck: New page: Asset Save: Widget
 [2023.05.29-21.19.44:417][ 93]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/BP/Widget.Widget
+[2023.05.29-21.20.10:369][904]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.29-21.20.10:374][904]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.29-21.20.10:374][904]PIE: New page: PIE session: Main (2023. 5. 30. 오후 3:20:10)
+[2023.05.29-21.20.10:374][904]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2023.05.29-21.20.10:374][904]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000600s)
+[2023.05.29-21.20.10:374][904]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.000622s)
+[2023.05.29-21.20.10:375][904]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.29-21.20.10:375][904]LogAIModule: Creating AISystem for world Main
+[2023.05.29-21.20.10:375][904]LogPlayLevel: PIE: World Init took: (0.000575s)
+[2023.05.29-21.20.10:413][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2023.05.29-21.20.10:417][904]LogAudio: Display: Creating Audio Device:                 Id: 48, Scope: Unique, Realtime: True
+[2023.05.29-21.20.10:417][904]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.29-21.20.10:418][904]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.29-21.20.10:418][904]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.29-21.20.10:418][904]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.29-21.20.10:418][904]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.29-21.20.10:418][904]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.29-21.20.10:418][904]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.29-21.20.10:418][904]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.29-21.20.10:418][904]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.29-21.20.10:418][904]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.29-21.20.10:418][904]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.29-21.20.10:420][904]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.29-21.20.10:434][904]LogAudioMixer: Display: Using Audio Hardware Device Headphones(GM200U)
+[2023.05.29-21.20.10:435][904]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.29-21.20.10:435][904]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.29-21.20.10:435][904]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.29-21.20.10:435][904]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=48
+[2023.05.29-21.20.10:435][904]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=48
+[2023.05.29-21.20.10:436][904]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=48
+[2023.05.29-21.20.10:436][904]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=48
+[2023.05.29-21.20.10:436][904]LogInit: FAudioDevice initialized.
+[2023.05.29-21.20.10:436][904]LogAudio: Display: Audio Device (ID: 48) registered with world 'Main'.
+[2023.05.29-21.20.10:439][904]LogLoad: Game class is 'BP_GameModeBase_C'
+[2023.05.29-21.20.10:439][904]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.05.30-06.20.10
+[2023.05.29-21.20.10:439][904]LogWorld: Bringing up level for play took: 0.000222
+[2023.05.29-21.20.10:441][904]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2023.05.29-21.20.10:443][904]PIE: Server logged in
+[2023.05.29-21.20.10:444][904]PIE: Play in editor total start time 0.07 seconds.
+[2023.05.29-21.20.18:806][903]LogBlueprintUserMessages: [Widget_C_0] 0
+[2023.05.29-21.20.22:023][289]LogBlueprintUserMessages: [Widget_C_0] 5
+[2023.05.29-21.20.27:956][  1]LogBlueprintUserMessages: [Widget_C_0] 0
+[2023.05.29-21.20.34:699][810]LogBlueprintUserMessages: [Widget_C_0] 1
+[2023.05.29-21.20.41:240][595]LogBlueprintUserMessages: [Widget_C_0] 2
+[2023.05.29-21.20.50:164][660]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.29-21.20.50:164][660]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2023.05.29-21.20.50:164][660]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.05.29-21.20.50:164][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.29-21.20.50:167][660]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.29-21.20.50:172][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.29-21.20.50:204][660]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.29-21.20.50:204][660]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48
+[2023.05.29-21.20.50:206][660]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48
+[2023.05.29-21.20.50:209][660]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.29-21.20.50:211][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.05.29-21.20.50:232][661]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2023.05.29-21.20.58:321][511]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.29-21.20.58:322][511]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.29-21.21.07:453][489]BlueprintLog: New page: Compile Widget
+[2023.05.29-21.21.07:706][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
